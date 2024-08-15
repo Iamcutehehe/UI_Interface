@@ -1,7 +1,7 @@
 local httpService = game:GetService("HttpService")
 
 local SaveManager = {} do
-	SaveManager.Folder = "Saluna Hub Config"
+	SaveManager.Folder = "Saluna_Hub_Config"
 	SaveManager.Ignore = {}
 	SaveManager.Parser = {
 		Toggle = {
